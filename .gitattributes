@@ -1,0 +1,11 @@
+# Generated on 2026-11-06 
+
+*.jpg binary
+
+src/** linguist-detectable
+
+*.yml linguist-detectable=false
+
+docs/** linguist-vendored
+src/**/*.ts linguist-detectable
+# eof 70cac9db
